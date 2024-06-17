@@ -1,0 +1,602 @@
+[
+    {
+        "prod_id": 1,
+        "name": "Smart Thermostat",
+        "description": "High quality keyboard tray for all your computing needs.",
+        "price": 730.71
+    },
+    {
+        "prod_id": 2,
+        "name": "Webcam",
+        "description": "High quality gaming chair for all your computing needs.",
+        "price": 438.21
+    },
+    {
+        "prod_id": 3,
+        "name": "Wi-Fi Adapter",
+        "description": "High quality webcam cover for all your computing needs.",
+        "price": 598.7
+    },
+    {
+        "prod_id": 4,
+        "name": "Desk Lamp",
+        "description": "High quality usb hub for all your computing needs.",
+        "price": 99.69
+    },
+    {
+        "prod_id": 5,
+        "name": "Headphones",
+        "description": "High quality modem for all your computing needs.",
+        "price": 778.18
+    },
+    {
+        "prod_id": 6,
+        "name": "Headphones",
+        "description": "High quality usb hub for all your computing needs.",
+        "price": 586.65
+    },
+    {
+        "prod_id": 7,
+        "name": "Anti-Glare Screen",
+        "description": "High quality ssd for all your computing needs.",
+        "price": 838.84
+    },
+    {
+        "prod_id": 8,
+        "name": "Keyboard Tray",
+        "description": "High quality 3d printer for all your computing needs.",
+        "price": 353.74
+    },
+    {
+        "prod_id": 9,
+        "name": "Smart Thermostat",
+        "description": "High quality docking station for all your computing needs.",
+        "price": 210.54
+    },
+    {
+        "prod_id": 10,
+        "name": "Mouse Pad",
+        "description": "High quality trackpad for all your computing needs.",
+        "price": 145.99
+    },
+    {
+        "prod_id": 11,
+        "name": "Docking Station",
+        "description": "High quality case fan for all your computing needs.",
+        "price": 755.62
+    },
+    {
+        "prod_id": 12,
+        "name": "Desk Lamp",
+        "description": "High quality webcam cover for all your computing needs.",
+        "price": 110.86
+    },
+    {
+        "prod_id": 13,
+        "name": "Laptop",
+        "description": "High quality monitor arm for all your computing needs.",
+        "price": 77.28
+    },
+    {
+        "prod_id": 14,
+        "name": "Trackpad",
+        "description": "High quality hdd for all your computing needs.",
+        "price": 139.45
+    },
+    {
+        "prod_id": 15,
+        "name": "RGB Lighting",
+        "description": "High quality blu-ray drive for all your computing needs.",
+        "price": 558.82
+    },
+    {
+        "prod_id": 16,
+        "name": "Standing Desk",
+        "description": "High quality wi-fi adapter for all your computing needs.",
+        "price": 339.17
+    },
+    {
+        "prod_id": 17,
+        "name": "Smart Light",
+        "description": "High quality vr headset for all your computing needs.",
+        "price": 142.56
+    },
+    {
+        "prod_id": 18,
+        "name": "Anti-Glare Screen",
+        "description": "High quality microphone for all your computing needs.",
+        "price": 966.15
+    },
+    {
+        "prod_id": 19,
+        "name": "Blu-ray Drive",
+        "description": "High quality laptop riser for all your computing needs.",
+        "price": 194.5
+    },
+    {
+        "prod_id": 20,
+        "name": "SSD",
+        "description": "High quality card reader for all your computing needs.",
+        "price": 59.61
+    },
+    {
+        "prod_id": 21,
+        "name": "Webcam",
+        "description": "High quality smart doorbell for all your computing needs.",
+        "price": 614.83
+    },
+    {
+        "prod_id": 22,
+        "name": "Monitor Privacy Screen",
+        "description": "High quality anti-glare screen for all your computing needs.",
+        "price": 804.75
+    },
+    {
+        "prod_id": 23,
+        "name": "Tablet Stand",
+        "description": "High quality ram for all your computing needs.",
+        "price": 258.78
+    },
+    {
+        "prod_id": 24,
+        "name": "Smart Plug",
+        "description": "High quality card reader for all your computing needs.",
+        "price": 947.27
+    },
+    {
+        "prod_id": 25,
+        "name": "Cooling Fan",
+        "description": "High quality vr headset for all your computing needs.",
+        "price": 964.91
+    },
+    {
+        "prod_id": 26,
+        "name": "RGB Lighting",
+        "description": "High quality modem for all your computing needs.",
+        "price": 588.26
+    },
+    {
+        "prod_id": 27,
+        "name": "UPS",
+        "description": "High quality modem for all your computing needs.",
+        "price": 856.22
+    },
+    {
+        "prod_id": 28,
+        "name": "CPU Cooler",
+        "description": "High quality smart lock for all your computing needs.",
+        "price": 552.41
+    },
+    {
+        "prod_id": 29,
+        "name": "DisplayPort Cable",
+        "description": "High quality scanner for all your computing needs.",
+        "price": 605.84
+    },
+    {
+        "prod_id": 30,
+        "name": "UPS",
+        "description": "High quality cable management box for all your computing needs.",
+        "price": 29.78
+    },
+    {
+        "prod_id": 31,
+        "name": "Anti-Glare Screen",
+        "description": "High quality docking station for all your computing needs.",
+        "price": 848.33
+    },
+    {
+        "prod_id": 32,
+        "name": "HDD",
+        "description": "High quality cleaning kit for all your computing needs.",
+        "price": 20.58
+    },
+    {
+        "prod_id": 33,
+        "name": "Printer",
+        "description": "High quality smart thermostat for all your computing needs.",
+        "price": 606.42
+    },
+    {
+        "prod_id": 34,
+        "name": "SSD Enclosure",
+        "description": "High quality usb hub for all your computing needs.",
+        "price": 874.03
+    },
+    {
+        "prod_id": 35,
+        "name": "CPU Cooler",
+        "description": "High quality laptop for all your computing needs.",
+        "price": 905.19
+    },
+    {
+        "prod_id": 36,
+        "name": "Scanner",
+        "description": "High quality laptop for all your computing needs.",
+        "price": 712.42
+    },
+    {
+        "prod_id": 37,
+        "name": "Blu-ray Drive",
+        "description": "High quality ssd enclosure for all your computing needs.",
+        "price": 27.37
+    },
+    {
+        "prod_id": 38,
+        "name": "Docking Station",
+        "description": "High quality case fan for all your computing needs.",
+        "price": 973.52
+    },
+    {
+        "prod_id": 39,
+        "name": "Numeric Keypad",
+        "description": "High quality label printer for all your computing needs.",
+        "price": 606.68
+    },
+    {
+        "prod_id": 40,
+        "name": "Numeric Keypad",
+        "description": "High quality webcam cover for all your computing needs.",
+        "price": 273.1
+    },
+    {
+        "prod_id": 41,
+        "name": "Mouse Bungee",
+        "description": "High quality screen protector for all your computing needs.",
+        "price": 293.94
+    },
+    {
+        "prod_id": 42,
+        "name": "Ethernet Cable",
+        "description": "High quality trackpad for all your computing needs.",
+        "price": 137.16
+    },
+    {
+        "prod_id": 43,
+        "name": "Keyboard",
+        "description": "High quality 3d printer for all your computing needs.",
+        "price": 600.43
+    },
+    {
+        "prod_id": 44,
+        "name": "Network Card",
+        "description": "High quality privacy filter for all your computing needs.",
+        "price": 89.99
+    },
+    {
+        "prod_id": 45,
+        "name": "Trackpad",
+        "description": "High quality scanner for all your computing needs.",
+        "price": 897.17
+    },
+    {
+        "prod_id": 46,
+        "name": "Anti-Glare Screen",
+        "description": "High quality ethernet cable for all your computing needs.",
+        "price": 768.56
+    },
+    {
+        "prod_id": 47,
+        "name": "Bluetooth Adapter",
+        "description": "High quality surge protector for all your computing needs.",
+        "price": 41.9
+    },
+    {
+        "prod_id": 48,
+        "name": "HDD Enclosure",
+        "description": "High quality 3d printer for all your computing needs.",
+        "price": 989.45
+    },
+    {
+        "prod_id": 49,
+        "name": "Case Fan",
+        "description": "High quality webcam for all your computing needs.",
+        "price": 429.33
+    },
+    {
+        "prod_id": 50,
+        "name": "Laptop Bag",
+        "description": "High quality hdmi cable for all your computing needs.",
+        "price": 542.44
+    },
+    {
+        "prod_id": 51,
+        "name": "Bluetooth Adapter",
+        "description": "High quality fan controller for all your computing needs.",
+        "price": 966.56
+    },
+    {
+        "prod_id": 52,
+        "name": "3D Printer",
+        "description": "High quality trackpad for all your computing needs.",
+        "price": 810.95
+    },
+    {
+        "prod_id": 53,
+        "name": "Privacy Filter",
+        "description": "High quality laptop sleeve for all your computing needs.",
+        "price": 242.45
+    },
+    {
+        "prod_id": 54,
+        "name": "Numeric Keypad",
+        "description": "High quality mouse pad for all your computing needs.",
+        "price": 199.15
+    },
+    {
+        "prod_id": 55,
+        "name": "Docking Station",
+        "description": "High quality graphics tablet for all your computing needs.",
+        "price": 161.62
+    },
+    {
+        "prod_id": 56,
+        "name": "Anti-Glare Screen",
+        "description": "High quality graphics tablet for all your computing needs.",
+        "price": 754.81
+    },
+    {
+        "prod_id": 57,
+        "name": "Monitor Riser",
+        "description": "High quality ram for all your computing needs.",
+        "price": 897.64
+    },
+    {
+        "prod_id": 58,
+        "name": "Laptop Bag",
+        "description": "High quality laptop stand for all your computing needs.",
+        "price": 302.96
+    },
+    {
+        "prod_id": 59,
+        "name": "Smart Lock",
+        "description": "High quality privacy filter for all your computing needs.",
+        "price": 782.93
+    },
+    {
+        "prod_id": 60,
+        "name": "HDMI Cable",
+        "description": "High quality graphics tablet for all your computing needs.",
+        "price": 687.51
+    },
+    {
+        "prod_id": 61,
+        "name": "Keyboard Tray",
+        "description": "High quality headphones for all your computing needs.",
+        "price": 200.08
+    },
+    {
+        "prod_id": 62,
+        "name": "Phone Stand",
+        "description": "High quality modem for all your computing needs.",
+        "price": 853.63
+    },
+    {
+        "prod_id": 63,
+        "name": "RAM",
+        "description": "High quality privacy filter for all your computing needs.",
+        "price": 718.11
+    },
+    {
+        "prod_id": 64,
+        "name": "Cable Management Box",
+        "description": "High quality numeric keypad for all your computing needs.",
+        "price": 160.74
+    },
+    {
+        "prod_id": 65,
+        "name": "Monitor",
+        "description": "High quality extension cord for all your computing needs.",
+        "price": 856.53
+    },
+    {
+        "prod_id": 66,
+        "name": "Cable Management Box",
+        "description": "High quality hdd for all your computing needs.",
+        "price": 259.89
+    },
+    {
+        "prod_id": 67,
+        "name": "External Hard Drive",
+        "description": "High quality cable organizer for all your computing needs.",
+        "price": 436.75
+    },
+    {
+        "prod_id": 68,
+        "name": "Mouse Pad",
+        "description": "High quality monitor for all your computing needs.",
+        "price": 90.71
+    },
+    {
+        "prod_id": 69,
+        "name": "Sound Card",
+        "description": "High quality bluetooth adapter for all your computing needs.",
+        "price": 71.03
+    },
+    {
+        "prod_id": 70,
+        "name": "Power Supply",
+        "description": "High quality smart plug for all your computing needs.",
+        "price": 259.01
+    },
+    {
+        "prod_id": 71,
+        "name": "Network Card",
+        "description": "High quality portable monitor for all your computing needs.",
+        "price": 282.89
+    },
+    {
+        "prod_id": 72,
+        "name": "Smart Plug",
+        "description": "High quality usb dock for all your computing needs.",
+        "price": 354.28
+    },
+    {
+        "prod_id": 73,
+        "name": "KVM Switch",
+        "description": "High quality hdd enclosure for all your computing needs.",
+        "price": 654.9
+    },
+    {
+        "prod_id": 74,
+        "name": "Cable Management Box",
+        "description": "High quality standing desk for all your computing needs.",
+        "price": 37.37
+    },
+    {
+        "prod_id": 75,
+        "name": "HDD Enclosure",
+        "description": "High quality usb dock for all your computing needs.",
+        "price": 713.64
+    },
+    {
+        "prod_id": 76,
+        "name": "Laptop",
+        "description": "High quality ssd for all your computing needs.",
+        "price": 286.49
+    },
+    {
+        "prod_id": 77,
+        "name": "Laptop Riser",
+        "description": "High quality gaming chair for all your computing needs.",
+        "price": 187.18
+    },
+    {
+        "prod_id": 78,
+        "name": "RGB Lighting",
+        "description": "High quality headphones for all your computing needs.",
+        "price": 891.79
+    },
+    {
+        "prod_id": 79,
+        "name": "VR Headset",
+        "description": "High quality microphone for all your computing needs.",
+        "price": 732.31
+    },
+    {
+        "prod_id": 80,
+        "name": "External Hard Drive",
+        "description": "High quality monitor riser for all your computing needs.",
+        "price": 891.88
+    },
+    {
+        "prod_id": 81,
+        "name": "Portable Monitor",
+        "description": "High quality screen protector for all your computing needs.",
+        "price": 653.82
+    },
+    {
+        "prod_id": 82,
+        "name": "Cleaning Kit",
+        "description": "High quality usb flash drive for all your computing needs.",
+        "price": 450.31
+    },
+    {
+        "prod_id": 83,
+        "name": "Label Printer",
+        "description": "High quality label printer for all your computing needs.",
+        "price": 205.63
+    },
+    {
+        "prod_id": 84,
+        "name": "Phone Stand",
+        "description": "High quality microphone for all your computing needs.",
+        "price": 554.1
+    },
+    {
+        "prod_id": 85,
+        "name": "RGB Lighting",
+        "description": "High quality case fan for all your computing needs.",
+        "price": 845.26
+    },
+    {
+        "prod_id": 86,
+        "name": "Charging Station",
+        "description": "High quality network card for all your computing needs.",
+        "price": 488.6
+    },
+    {
+        "prod_id": 87,
+        "name": "VR Headset",
+        "description": "High quality bluetooth adapter for all your computing needs.",
+        "price": 808.26
+    },
+    {
+        "prod_id": 88,
+        "name": "Wi-Fi Adapter",
+        "description": "High quality mouse pad for all your computing needs.",
+        "price": 365.9
+    },
+    {
+        "prod_id": 89,
+        "name": "Laptop Sleeve",
+        "description": "High quality laptop skin for all your computing needs.",
+        "price": 408.34
+    },
+    {
+        "prod_id": 90,
+        "name": "Gaming Chair",
+        "description": "High quality switch for all your computing needs.",
+        "price": 530.82
+    },
+    {
+        "prod_id": 91,
+        "name": "Phone Stand",
+        "description": "High quality mouse bungee for all your computing needs.",
+        "price": 147.38
+    },
+    {
+        "prod_id": 92,
+        "name": "Laptop Skin",
+        "description": "High quality monitor riser for all your computing needs.",
+        "price": 961.07
+    },
+    {
+        "prod_id": 93,
+        "name": "Privacy Filter",
+        "description": "High quality laptop skin for all your computing needs.",
+        "price": 228.68
+    },
+    {
+        "prod_id": 94,
+        "name": "Power Strip",
+        "description": "High quality monitor for all your computing needs.",
+        "price": 243.21
+    },
+    {
+        "prod_id": 95,
+        "name": "SSD",
+        "description": "High quality cpu for all your computing needs.",
+        "price": 616.52
+    },
+    {
+        "prod_id": 96,
+        "name": "Mouse Pad",
+        "description": "High quality motherboard for all your computing needs.",
+        "price": 956.85
+    },
+    {
+        "prod_id": 97,
+        "name": "Laptop Riser",
+        "description": "High quality switch for all your computing needs.",
+        "price": 261.85
+    },
+    {
+        "prod_id": 98,
+        "name": "Anti-Glare Screen",
+        "description": "High quality laptop bag for all your computing needs.",
+        "price": 491.29
+    },
+    {
+        "prod_id": 99,
+        "name": "Extension Cord",
+        "description": "High quality keyboard tray for all your computing needs.",
+        "price": 395.72
+    },
+    {
+        "prod_id": 100,
+        "name": "HDMI Cable",
+        "description": "High quality mouse bungee for all your computing needs.",
+        "price": 926.55
+    }
+]

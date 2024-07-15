@@ -11,7 +11,21 @@ with open(file_path, 'r') as file:
 #product route    
 @app.route('/search/products', methods = ['GET'])
 def get_products():
-    return jsonify(products)
+    try:
+        limit = int(request.args.get('limit', 30))
+        page = int(request.args.get('page', 1))
+    except ValueError:
+        abort(400, description = "Invalid parameters.")
+
+    start_index = (page - 1) * limit
+    end_index = start_index + limit
+    
+    paginated_prod = products [start_index:end_index]
+    
+    if not paginated_prod:
+        abort(404, description = "No products found.")
+    
+    return jsonify(paginated_prod)
 
 #ID route
 @app.route('/search/products/<int:prod_id>', methods = ['GET'])
